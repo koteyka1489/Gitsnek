@@ -80,5 +80,5 @@ private:
 	static constexpr int squareDrawTime = 360;
 	bool SquareSetLocDone = false;
 	bool squareCollision = false;
-
+	// HI GIT
 };
